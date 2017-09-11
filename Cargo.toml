@@ -1,0 +1,6 @@
+[package]
+name = "testmod"
+version = "0.1.0"
+authors = ["Max Rietmann <max.rietmann@gmail.com>"]
+
+[dependencies]
